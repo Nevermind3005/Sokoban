@@ -1,0 +1,17 @@
+wwwwwwwwww
+wp c   e w
+wwww c   w
+w  w     w
+w cw     w
+w  wwww ww
+w  wew   w
+w    w   w
+we       w
+wwwwwwwwww
+##end##
+!!Map must be 10x10!!
+w == Wall
+p == Player
+c == Crate
+e == Crate endpoint
+  == Empty space
